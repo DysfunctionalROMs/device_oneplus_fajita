@@ -7,7 +7,7 @@
   },
   {
     "remote": "github",
-    "repository": "oneplus6t-lz/OnePlus6T-LZ",
+    "repository": "LightningZap/OnePlus6T-LZ",
     "target_path": "kernel/oneplus/OnePlus6T-LZ",
     "branch": "pie"
   },
